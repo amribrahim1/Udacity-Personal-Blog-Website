@@ -1,0 +1,42 @@
+.winter-body {
+    background-color: rgba(0,0,0,0.7);
+}
+.spring-body {
+    background-color: #88B04B;
+}
+.summer-body {
+    background-color: #F3872F;
+}
+.autumn-body {
+    background-color: #5F5426;
+}
+
+.winter-paragraph {
+    color: rgba(255,255,255,0.8);
+}
+.spring-paragraph {
+    color:#9B2335;
+}
+.summer-paragraph {
+    color:yellow;
+}
+.autumn-paragraph {
+    color:#F3BC2E;
+}
+
+.winter-header {
+    color: #9C2706 ;
+    text-shadow: 0 2px 1px #f6f6f6, 0 3px 0 #efefef, 0 4px 0#EFC050, 0 5px 0 #e3e3e3, 0 6px 0#EFC050, 0 7px 0 #d7d7d7, 0 8px 0 #d1d1d1, 0 10px 10px rgba(170,170,170,0.4);
+}
+.spring-header {
+    color: #9C2706 ;
+    text-shadow: 0 2px 1px #f6f6f6, 0 3px 0 #efefef, 0 4px 0#EFC050, 0 5px 0 #e3e3e3, 0 6px 0#EFC050, 0 7px 0 #d7d7d7, 0 8px 0 #d1d1d1, 0 10px 10px rgba(170,170,170,0.4);
+}
+.summer-header {
+    color: #9C2706 ;
+    text-shadow: 0 2px 1px #f6f6f6, 0 3px 0 #efefef, 0 4px 0#EFC050, 0 5px 0 #e3e3e3, 0 6px 0#EFC050, 0 7px 0 #d7d7d7, 0 8px 0 #d1d1d1, 0 10px 10px rgba(170,170,170,0.4);
+}
+.autumn-header {
+    color: #9C2706 ;
+    text-shadow: 0 2px 1px #f6f6f6, 0 3px 0 #efefef, 0 4px 0#EFC050, 0 5px 0 #e3e3e3, 0 6px 0#EFC050, 0 7px 0 #d7d7d7, 0 8px 0 #d1d1d1, 0 10px 10px rgba(170,170,170,0.4);
+}
